@@ -7,7 +7,7 @@ export default function Features() {
   ];
 
   return (
-    <section className="py-16 px-10">
+    <section id="feature" className="py-16 px-10">
       <h2 className="text-4xl font-bold text-center mb-12">Features</h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">

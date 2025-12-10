@@ -1,6 +1,6 @@
 export default function TailwindCSS() {
   return (
-    <main className="bg-gray-50 min-h-screen">
+    <main  className="bg-gray-50 min-h-screen">
       {/* HERO SECTION WITH TWO CARDS */}
       <section className="container mx-auto px-6 py-16 grid lg:grid-cols-2 gap-12">
 

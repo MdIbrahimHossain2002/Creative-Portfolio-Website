@@ -1,6 +1,6 @@
 export default function Development() {
   return (
-    <section className="w-full bg-white">
+    <section id="contact" className="w-full bg-white">
       <div className="container mx-auto px-6 py-20 grid md:grid-cols-2 gap-12 items-center">
         
         {/* LEFT CONTENT */}
